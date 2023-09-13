@@ -15,11 +15,11 @@
 
 INPUT:
 
-  10
+      10
 
 OUTPUT:
 
-  10
-  0x7ffee46067a0
-  0x7ffee46067a0
-  0x7ffee46067a8
+      10
+      0x7ffee46067a0
+      0x7ffee46067a0
+      0x7ffee46067a8
