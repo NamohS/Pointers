@@ -23,3 +23,8 @@ OUTPUT:
       0x7ffee46067a0
       0x7ffee46067a0
       0x7ffee46067a8
+2] [Array location](exppointers4.cpp)
+This C++ program allows the user to input a position, and then it retrieves and prints the value of the array at that position using a pointer. It demonstrates how to navigate through an array with a pointer and access specific elements. This code serves as a basic example of working with arrays and pointers in C++.
+<div align="left">
+  <img src="2.jpg" width="17.5%" height="17.5%"/>
+</div><br/>
